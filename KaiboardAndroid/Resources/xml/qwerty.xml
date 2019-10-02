@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Keyboard xmlns:android="https://schemas.android.com/apk/res/android"
+    android:keyWidth="10%p"
+    android:keyHeight="60dp"
+    android:horizontalGap="0px"
+    android:verticalGap="0px"
+>
+<Row>
+    <Key android:keyLabel="Camera" android:keyEdgeFlags="left"/>
+    <Key android:keyLabel="Gallery" android:keyEdgeFlags="right"/>
+</Row>
+
+</Keyboard>
